@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Zerorez Des Moine - Test]]></title>
-        <description><![CDATA[Zerorez Des Moine - Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Zerorez Des Moines - TEST]]></title>
+        <description><![CDATA[Zerorez Des Moines - TEST]]></description>
+        <link>https://thegrid.ai/zerorez-des-moine-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 17:15:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 17:24:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zerorez-des-moine-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d99efcf-7d34-4ba7-b4e4-9f1f9e45e27f.jpg">]]></description>
-            <link>undefinedzerorez-des-moines-cleaning-with-patented-empowered-watertm/index.html</link>
+            <link>https://thegrid.ai/zerorez-des-moine-test/zerorez-des-moines-cleaning-with-patented-empowered-watertm/index.html</link>
             <guid isPermaLink="false">75ec4675-ad6e-495c-91ed-e4744493d7c1</guid>
-            <pubDate>Thu, 02 Jun 2016 17:14:54 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 17:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
