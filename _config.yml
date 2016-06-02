@@ -1,0 +1,28 @@
+name: Zerorez Des Moine - Test
+favicon: null
+layout_spectrum: 0.3243982279673219
+typography_spectrum: 0.6974709015339613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.364967274479568
+  lightness: 0.41557330428622663
+  saturation: 0.8837659335695207
+  rhythmicContrast: 0.28088722471147776
+purpose: []
