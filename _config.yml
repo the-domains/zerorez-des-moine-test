@@ -1,4 +1,4 @@
-name: Zerorez Des Moine - Test
+name: Zerorez Des Moines - Test
 favicon: null
 layout_spectrum: 0.60495
 typography_spectrum: 0.6974709015339613
@@ -24,6 +24,6 @@ color:
     - '#73a3ce'
   brandStrength: 0.8125
   lightness: 0.6875
-  saturation: 0.8837659335695207
+  saturation: 0.6875
   rhythmicContrast: 0.28088722471147776
 purpose: []
